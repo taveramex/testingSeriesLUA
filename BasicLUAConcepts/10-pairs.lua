@@ -11,12 +11,3 @@ TablaMamelona[8]="polo"
 for i,v in pairs(TablaMamelona) do
     print(i,v)
 end
-
-
-patrones y diseño de software
-backedn
-frontend
-lider tecnico
-infraestructura
-devops
-45k con muchos beneficios
